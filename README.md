@@ -26,4 +26,10 @@ Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request. Make sure to follow the contribution guidelines outlined in the CONTRIBUTING.md file.
 
 Screenshots
+![pic 1](https://github.com/2004-russell/rn-assignment3-11288670/assets/151689516/18df8235-e3aa-474b-9a9f-2b181c44bf1f)
+![pic 2](https://github.com/2004-russell/rn-assignment3-11288670/assets/151689516/fd562676-4019-4797-8ae3-fa4fa6a5ba54)
+![pic 3](https://github.com/2004-russell/rn-assignment3-11288670/assets/151689516/c4e004e0-126c-4575-b005-9588fd04b2ff)
+
+
+
 
