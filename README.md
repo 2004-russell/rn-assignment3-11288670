@@ -24,3 +24,6 @@ react-native: A framework for building native apps using React.
 react-native-vector-icons: A library for using custom icons in React Native apps.
 Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request. Make sure to follow the contribution guidelines outlined in the CONTRIBUTING.md file.
+
+Screenshots
+
